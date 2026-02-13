@@ -9,12 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on a **social media web app for IITians** using MERN stack  
-- 🌱 I’m learning **advanced Node.js**, **JWT**, and **cloud deployment**  
-- 💬 Ask me about **C++ DSA**, **React.js**, or **Verilog/FPGA stuff**  
-- 🎯 Goal: Become a solid full-stack dev while acing core EE subjects  
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/prateekrajput9/)** | **prateek9899@gmail.com**  
-- ⚡ Fun fact: I study like a topper, vibe like a chill guy 😎
+- 
 
 ---
 
